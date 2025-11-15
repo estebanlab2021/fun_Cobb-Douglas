@@ -4,6 +4,8 @@ Este es un repositorio con fines educativos que solo muestra el paso a paso como
 
 ![Econometría](libro.png)
 
+<img src="libro.png" alt="Econometría" width="100"/>
+
 ## 🗃️ Datos y Variables
 Los datos están transcritos y disponibles en formato csv en el siguiente link: https://raw.githubusercontent.com/estebanlab2021/fun_Cobb-Douglas/refs/heads/master/ejemplo_cobb_douglas.csv
 
